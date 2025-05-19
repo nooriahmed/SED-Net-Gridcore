@@ -1,1 +1,1 @@
-# SED-Net_grid
+# SED-Net_Grid
